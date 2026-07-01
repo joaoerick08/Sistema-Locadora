@@ -16,4 +16,3 @@ Sistema de gerenciamento de locadora de veículos desenvolvido em Java e Postgre
 - PostgreSQL
 - JDBC
 
-## Estrutura do projeto
